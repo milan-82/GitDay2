@@ -6,6 +6,10 @@ public class HomePage {
 
     // navigate menu
 
+    // more things for home page
+
+    // logo
+
 
 
 
